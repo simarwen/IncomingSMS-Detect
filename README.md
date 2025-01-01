@@ -24,4 +24,4 @@ To get started with the DetectIncomingSMS app, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/simarwen/IncomingSMS-Detect.git
+   git clone https://github.com/simarwen/Lab_8_DetectIncomingSMS.git
